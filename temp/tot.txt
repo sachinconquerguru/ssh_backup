@@ -1,0 +1,114 @@
+mkdir new folder
+
+touch - create new file
+
+ls -ai      ( rights of the file)
+
+#!   (shebang)
+
+#! /bin/bash   - bash directory
+
+./hello.sh     - execute code
+
+chmod +x hello.sh   - permission 
+
+
+two type variables 
+
+1 . system     EX : echo $BASH echo $BASH 
+			echo $BASH_version
+			echo $HOME 
+			echo $PWD 
+
+2 . user defined 
+
+		name=Sachin 
+           	echo  The name is $name
+           	
+           	
+ my mic is not working i think 
+1.6 year experience total i have 
+
+1 year in manual testing 
+6 month as a webscrapper (python )
+
+iam cs background 
+           	
+           	
+           	
+           	
+           	https://ust-global.zoom.us/j/95389711444
+             	
+           	
+           	Password                                       : 072018
+           	
+           	
+           	
+           	
+           	
+           	
+           	
+           	
+           	
+           	
+           	
+           	
+           	
+.Delete test,test1,test2
+2.Create three users, raj,ravi,neha using adduser command.
+3.Create data1.txt,data2.txt.Write your name in data1.txt
+4.Add neha and ravi to superuser group.
+5.Login with raj and try to write content in data2.txt.
+6.Read the data1.txt
+7.Logout from raj and login with ravi.
+8.Try to write content in data2.txt and data1.txt.
+9.Read the data1.txt and data2.txt
+10.Logout from ravi
+11.Change ownership of data1.txt to raj
+12.Change ownership and group of data2.txt to neha and raj.
+13.Try to append your name to data1.txt
+14.Try to append your name to data2.txt
+15.login with raj and try to change the ownership of data2.txt to raj.
+16.Logout and Deactivate the ravi account.(Change login shell to nologin)
+17.Login with neha and change ownership of data1.txt to neha         
+
+18.login with superuser
+19.Create hidden directory data  ---------  mkdir .data
+20.Create hidden file a.txt inside data ----------touch .a.txt
+21.Remove data dir    	---------- rm -rf .data
+
+22.Download https://corgis-edu.github.io/corgis/csv/cars/ csv file from this page.
+23.Find all lines with "All-wheel drive" --- cat cars.csv | grep -P 'All-wheel drive'
+24.Find all lines with "Gasoline"  --- cat cars.csv | grep -P 'Gasoline'
+25.Find all lines which have audi and 8 cylinder  ----cat cars.csv | grep "Audi" | grep "8 cylinder"
+26.Find all lines which have 2.0L to 4.2L  -----cat cars.csv | grep -P '[2-4].[0-2]L' 
+27.Find all lines with "Front-wheel drive" and "Trubo"   ---- cat cars.csv | grep "Front-wheel drive" | grep "Turbo"
+
+
+28.Print all files ending with .txt  -----ls *.txt
+29.Print count of lines with "8 cylinder"  --cat cars.csv | grep '8 cylinder'  -c    -----cat cars.csv | grep '8 cylinder' | wc -l
+30.Store top 5 lines from cars.csv to file.txt  -----at cars.csv | head -n 5 
+31.Find All lines "Volvo" from 3.0L to 4.4L. Store last 5 lines in filedata.txt  ----cat cars.csv | grep "Volvo" | grep -P '[3.0-4.4]L' > filedata.txt
+Optional:
+1.Print the output of "lspci -vvn". Find all driver word in output   ----lspci -vvn | grep 'driver'
+2.Find CPU0 to CPU6 in your logs(Use command dmesg)   ----
+3.Find all occurance starts with '0x0' and ends with 'f' in your system logs
+4.Find all "SerialNumber" in your system log file
+5.Find all lines containing "io 0x" and ends with "f". 
+only 0-9 number allowed and a-f alphabet allowed in between
+6.Find all users with nologin in /etc/passwd 
+
+
+iam sachin 
+iam from thrissur , kerala 
+iam also cs back ground 
+
+iam also 1 and half  year exp in it and 6 month exp in python just basic knowledge 
+and i think this is great opurtunity to learn new things and create great futhure 
+
+and the training id going very good 
+my passion is to travel and learn new things 
+actually my first iv is ust global kochi so that time iam wonder how i get job in like this company its a dream also
+
+
+

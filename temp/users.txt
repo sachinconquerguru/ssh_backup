@@ -1,0 +1,15 @@
+ 1031  docker pull debian
+ 1032  docker run -it  debian
+ 1033  docker pull alpine
+ 1034  docker run -it  alpine
+ 1035  docker pull mysql
+ 1036  docker run -it mysql
+ 1037  cd ..
+ 1038  cd cloud_compute/
+ 1039  docker pull ubuntu
+ 1040  docker run -it  ubuntu
+ 1041  docker run -v ~/cloud_compute/data:/home ubuntu
+ 1042  docker run -it ubuntu
+ 1043  docker run -it -p 8080:80 httpd 
+ 1044  docker run -it -p 8081:80 nginx
+ 1045  docker run -it -p 8080:80 httpd 
